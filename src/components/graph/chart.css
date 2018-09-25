@@ -1,0 +1,16 @@
+.title {
+  font-family: "Roboto", sans-serif;
+  margin: 10px 0;
+  width: 100%;
+  position: relative;
+}
+
+.doughnut-graph {
+  position: relative;
+  width: 100%;
+}
+
+.bar-graph{
+  position: relative;
+  padding-left: 300px;
+}
